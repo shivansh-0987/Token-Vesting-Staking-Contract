@@ -14,6 +14,6 @@ To provide a transparent and tamper-proof mechanism for team allocations, adviso
 
 ## 🔗 Contract Address
 ST346ZM6CSK8QGN8BFSBN837H395MQNQ71RVNNEJ6.vesting-staking
-![alt text](image.png)
+
 
 ![image](https://github.com/user-attachments/assets/76d450f9-127f-4734-9b2d-7fb6542151bb)
